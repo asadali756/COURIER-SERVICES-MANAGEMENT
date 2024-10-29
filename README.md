@@ -11,7 +11,7 @@ Welcome to the **Courier Management System** project! This PHP-based application
 </div>
 
 <div align="center">
-    <img src="path/to/your/image.jpg" alt="Courier Management System" style="border: 2px solid #000;"/>
+    <img src="https://github.com/asadali756/COURIER-SERVICES-MANAGEMENT/blob/master/courier%20projects.JPG" alt="Courier Management System" style="border: 2px solid #000;"/>
 </div>
 
 ## Features
